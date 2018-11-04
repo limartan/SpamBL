@@ -26,9 +26,9 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 echo "##################################"|lolcat
 echo "/ TOOLS : SPAM v1                /"|lolcat
-echo "/ CODED : MR.LiM               /"|lolcat
+echo "/ CODED : MR.LimarTaN               /"|lolcat
 echo "/ TEAM  : LiMAnonyM  /"|lolcat
-echo "/ youtube : Limartan SANS             /"|lolcat
+echo "/ youtube : Limartan SANS           /"|lolcat
 echo "##################################"|lolcat
 
 echo "daftar tools spam"
@@ -41,19 +41,19 @@ if [ $bro = 1 ] || [ $bro = 01 ]
 then
 clear
 php mdr2.php
-sh B3604-spam.sh
+sh spamBL.sh
 fi
 
 if [ $bro = 2 ] || [ $bro = 01 ]
 then
 clear
 php mdr1.php
-sh B3604-spam.sh
+sh spamBL.sh
 fi
 
 if [ $bro = 3 ] || [ $bro = 03 ]
 then
-echo "\033[31;1mWA : 0895610430510"
+echo "\033[31;1mWhatsApp : 0895610430510"
 sleep 1
 echo "\033[32;1mTerimakasih Sudah Menggunakan Tools ini"
 sleep 1
